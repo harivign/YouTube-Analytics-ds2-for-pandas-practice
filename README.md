@@ -43,10 +43,7 @@ Cluster videos based on performance metrics to identify content patterns.
 🛠️ How to Use This Dataset
 Clone this repository:
 bash
-Copy code
-git clone https://github.com/yourusername/youtube-analytics-ds-practice.git  
-Load the dataset in your Python environment using Pandas:
-python
+
 Copy code
 import pandas as pd  
 df = pd.read_csv("all_youtube_analytics.csv")  
